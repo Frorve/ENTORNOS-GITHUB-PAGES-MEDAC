@@ -1,7 +1,6 @@
 #pagina{
     background-image: linear-gradient(320deg, #bfec7f 0, #a9e376 25%, #90d86c 50%, #75cd63 75%, #5ac45e 100%);
-    border-radius: 20px;
-    border: 4px;
+    border: solid;
     border-style:none;
     box-shadow: 8px 8px 12px;
     margin-left: 15%;
@@ -9,15 +8,18 @@
     height: auto;
     width: auto;
     float: left;
+    border: solid;
 }
 header{
-    background-image:url(../images/Banner.jpg);
+    background-color: white;
     background-size:cover;
-    border-radius: 20px;
+    
 }
 h3{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(255, 0, 0);
+    font-size: small;
+    margin-left: 1%;
 }
 span{
     color: yellow;
