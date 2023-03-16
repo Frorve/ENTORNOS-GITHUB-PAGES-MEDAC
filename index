@@ -19,16 +19,6 @@
                         <h1 id="titulo">Creacion de pagina para GitHub Page en Entornos</h1>
                         </p>
                     </td>
-                    <td id="logear">
-                        <form method="post">
-                            <input type="text" name="Nombre" size="20px" maxlength="20" placeholder="Nombre de usuario"
-                                class="login"></p>
-                            <input type="password" name="Contraseña" size="20px" maxlength="20" placeholder="Contraseña"
-                                class="login"></p>
-                            <input class="boton" type="submit" value="Registrarse">
-                            <input class="boton" type="submit" value="Crear cuenta">
-                        </form>
-                    </td>
                 </tr>
             </table>
         </header>
@@ -56,8 +46,7 @@
             <br>
             <div id="footer">
                 <br>
-                <h3>Francisco <span> Ortega  Velasco </span> y Alejandro <span> Castillo Jimenez </span> ESPAÑA © 2022</h3>
-                
+                <h3>Francisco <span> Ortega  Velasco  y Alejandro Castillo </span> Jimenez ESPAÑA © 2023</h3>
             </div>
         </footer>
 </body>
