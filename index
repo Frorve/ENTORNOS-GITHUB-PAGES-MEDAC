@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="widtd=device-widtd, initial-scale=1.0">
     <link rel="stylesheet" href="estilos/CSS.css">
-    <title>Tu tienda de CBD</title>
+    <title>Entornos GitHub Page</title>
 </head>
 <body>
     <div id="pagina">
@@ -16,7 +16,7 @@
                     <td><img id="img" src="images/letter-cbd-and-cannabis-leaf-logo-or-icon-design-vector.webp"></td>
                     <td>
                         <p>
-                        <h1 id="titulo">CBD de confianza</h1>
+                        <h1 id="titulo">Entornos GitHub Page</h1>
                         </p>
                     </td>
                     <td id="logear">
@@ -33,51 +33,18 @@
             </table>
         </header>
         <main>
-            <div id="izquierda">
-                <aside id="Menu">
-                    <nav>
-                        <h2 id="Menusito">Menú</h2>
-                        <ul>
-                            <li><a href="./Index.html">Home</a></li>
-                            <li><a href="./paginas/Aceites.html">Aceites</a></li>
-                            <li><a href="./paginas/Plantas.html">Flores</a></li>
-                            <li><a href="./paginas/Cremas.html">Cremas</a></li>
-                            <li><a href="./paginas/contacto.html">Contacto</a></li>
-                            <br>
-                        </ul>
-                    </nav>
-                </aside>
-                <aside id="Ofertas">
-                    <nav>
-                        <h2 id="Ofertitas">Ofertas</h2>
-                        <ul>
-                            <li><a href="./paginas/Ofertas.html#Oferta1">Pack Máster en Flor</a></li>
-                            <li><a href="./paginas/Ofertas.html#Oferta2">Packs E-Liquids</a></li>
-                            <li><a href="./paginas/Ofertas.html#Oferta3">Pack Vapeadores Desechables</a></li>
-                            <br>
-                        </ul>
-                    </nav>
-                </aside>
             </div>
             <div id="derecha">
                 <section>
-                    <h1>No es lo que piensas. Simplemente, es CBD</h1>
+                    <h1>Explicación de como hemos creado nuestra primera página en GitHub Page</h1>
                     <blockquote>
-                        <h4>El CBD o canabidiol es un componente natural derivado del cannabis, totalmente legal y sin
-                            efectos psicoactivos. Actualmente, se estudia en relación a múltiples dolencias, como el
-                            acné, la ansiedad, los dolores crónicos, la diabetes, la depresión, la epilepsia, la
-                            inflamación, el insomnio o las náuseas. Aumenta la creatividad y el bienestar integral. En
-                            ningún caso sustituye a un medicamento.</h4>
+                        <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod perferendis voluptate atque nulla? Voluptatibus, cum? Quaerat sit maiores aspernatur aliquam, nam, facere et ad nemo commodi consequuntur nostrum amet dolores!</h4>
                         <hr>
                         <br>
-                        <pre><h2>“El CBD es mil veces mejor que el whisky. Es asistente, amiga”.</h2></pre>
+                        <pre><h2>“lorem”.</h2></pre>
                         <br>
-                        – Louis Armstrong
                         <br>
                     </blockquote>
-                    <audio controls>
-                        <source src="multimedia/Bob Marley - A lalala long_-JhwxTen6yA.mp3" type="audio/mp3">
-                    </audio>
                     <br>
                     <br>
                 </section>
@@ -87,12 +54,6 @@
             <br>
             <br>
             <div id="footer">
-                <ul id="lista">
-                    <li><a href="./paginas/Contacto.html">Quiénes somos</a></li>
-                    <li><a href="./paginas/Contacto.html#mapa">¿Donde estamos?</a></li>
-                    <li><a href="./paginas/Contacto.html">Teléfono: 640603382</a></li>
-                    <li><a href="mailto:cbdgranada@gmail.com">Correo electrónico: cbdgranada@gmail.com</a></li>
-                </ul>
                 <br>
                 <h3>Francisco <span> Ortega  Velasco </span> y Alejandro <span> Castillo Jimenez </span> ESPAÑA © 2022</h3>
                 
