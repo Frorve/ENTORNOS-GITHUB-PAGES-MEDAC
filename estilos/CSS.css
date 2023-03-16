@@ -31,3 +31,8 @@ span{
     border-style:none;
     float: left;
 }
+
+#derecha{
+    float: right;
+    padding-left: 20px;
+}
