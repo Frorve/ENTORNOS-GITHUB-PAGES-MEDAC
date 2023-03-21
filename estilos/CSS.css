@@ -1,8 +1,8 @@
-#pagina{
-    background: rgb(127,120,247);
-    background: linear-gradient(90deg, rgba(127,120,247,1) 0%, rgba(252,124,149,1) 35%, rgba(0,212,255,1) 100%);
+#pagina {
+    background: rgb(127, 120, 247);
+    background: linear-gradient(90deg, rgba(127, 120, 247, 1) 0%, rgba(252, 124, 149, 1) 35%, rgba(0, 212, 255, 1) 100%);
     border: solid;
-    border-style:none;
+    border-style: none;
     box-shadow: 8px 8px 12px;
     margin: 20px;
     height: auto;
@@ -10,57 +10,85 @@
     float: left;
     border: solid;
 }
-header{
+
+header {
     background-color: white;
-    background-size:cover;
+    background-size: cover;
 }
 
-h4{
+h4 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h3{
+
+h3 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(255, 0, 0);
     font-size: small;
     margin-left: 1%;
 }
-span{
+
+#titulo {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+span {
     color: yellow;
 }
-#img{
+
+#img {
     width: 140px;
     border-radius: 20px;
     border: 5px;
-    border-style:none;
+    border-style: none;
     float: left;
 }
 
-#img1{
+#img1 {
     width: 650px;
     border-radius: 20px;
     border: 5px;
-    border-style:none;
+    border-style: none;
     float: left;
 }
 
-#derecha{
+#img2 {
+    width: 320px;
+    border-radius: 20px;
+    border: 5px;
+    border-style: none;
+    float: left;
+}
+
+#img3 {
+    width: 500px;
+    border-radius: 20px;
+    border: 5px;
+    border-style: none;
+    float: left;
+}
+
+#derecha {
     float: right;
     padding-left: 30px;
 }
 
-footer{
+footer {
     float: left;
     width: 100%;
     text-align: center;
 }
 
-#tabla{
+#tabla {
     width: 100%;
 
 }
 
-#tabla2{
+#tabla2 {
     margin-left: 10%;
+}
+
+#tabla3 {
+    margin-left: 20%;
 }
 
 #botones {
