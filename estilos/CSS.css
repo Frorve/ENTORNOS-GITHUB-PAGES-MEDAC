@@ -3,8 +3,7 @@
     border: solid;
     border-style:none;
     box-shadow: 8px 8px 12px;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin: 20px;
     height: auto;
     width: auto;
     float: left;
@@ -32,6 +31,14 @@ span{
     float: left;
 }
 
+#img1{
+    width: 650px;
+    border-radius: 20px;
+    border: 5px;
+    border-style:none;
+    float: left;
+}
+
 #derecha{
     float: right;
     padding-left: 20px;
@@ -41,4 +48,8 @@ footer{
     float: left;
     width: 100%;
     text-align: center;
+}
+
+#tabla{
+    width: 100%;
 }
