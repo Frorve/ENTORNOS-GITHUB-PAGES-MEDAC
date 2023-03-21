@@ -32,6 +32,14 @@ span{
     float: left;
 }
 
+#img1{
+    width: 650px;
+    border-radius: 20px;
+    border: 5px;
+    border-style:none;
+    float: left;
+}
+
 #derecha{
     float: right;
     padding-left: 20px;
