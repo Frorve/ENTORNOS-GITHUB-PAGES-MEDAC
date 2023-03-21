@@ -36,3 +36,9 @@ span{
     float: right;
     padding-left: 20px;
 }
+
+footer{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
